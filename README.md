@@ -1,1 +1,1 @@
-https://github.com/PRIYESHSINGH24/PRACTICEPAGE1-PORTFOLIO-
+https://priyeshsingh24.github.io/PRACTICEPAGE1-PORTFOLIO-/
