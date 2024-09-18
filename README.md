@@ -15,7 +15,7 @@ This repository contains the source code for my portfolio page. It is created us
 ## Getting Started
 
 To view the portfolio page, you can visit the live page at the following link:
-[Live Portfolio Page](INSERT_YOUR_PAGE_LINK_HERE)
+[Live Portfolio Page](https://priyeshsingh24.github.io/PRACTICEPAGE1-PORTFOLIO-/)
 
 ### Prerequisites
 
