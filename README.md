@@ -1,1 +1,1 @@
-https://priyeshsingh24.github.io/PRACTICEPAGE1-PORTFOLIO-/
+https://roadmap.sh/projects/single-page-cv
